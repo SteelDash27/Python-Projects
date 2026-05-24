@@ -113,7 +113,7 @@ No external dependencies are required unless noted within a specific project fol
 
 ## Related Repository
 
-🔗 **[learn-cpp-educative](https://github.com/YOUR_USERNAME/learn-cpp-educative)** — C++ solutions for every coding challenge in the Educative course *"Learn C++: The Complete Course for Beginners"*.
+🔗 **[learn-cpp-educative]([https://github.com/YOUR_USERNAME/learn-cpp-educative](https://github.com/SteelDash27/Educative-Learn-CPP-Course-For-Beginners))** — C++ solutions for every coding challenge in the Educative course *"Learn C++: The Complete Course for Beginners"*.
 
 ---
 
