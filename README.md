@@ -1,4 +1,4 @@
-# 🐍 Python Practice Projects
+# Python Practice Projects
 
 > A growing collection of Python exercises — general practice projects alongside Python re-implementations of problems I've solved in my [C++ course](https://github.com/SteelDash27/Educative-Learn-CPP-Course-For-Beginners).
 
